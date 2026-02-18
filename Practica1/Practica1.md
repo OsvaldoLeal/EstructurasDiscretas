@@ -7,3 +7,6 @@ Java es un lenguaje orientado a objetos, esto quiere decir que TODO se modela a 
 3. ¿Por qué Haskell no ha alcanzado una adopción significativa en la industria del software?
 A pesar de ser una herramienta potente, Haskell ha tenido fama de ser un lenguaje utilizado solo en sectores nicho por su énfasis teórico y matemático.
 4. Si pudieras realizar un simple analogía entre Git y GitHub ¿Cuál se te vendría a la mente?
+
+
+Bibliografia:
