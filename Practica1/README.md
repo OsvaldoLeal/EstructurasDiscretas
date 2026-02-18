@@ -2,6 +2,6 @@
 
 2. Alrededor de 2 horas o 3 horas.
 
-3. En general las instalaciones son sencillas. En mi caso, la computadora tardo algo de tiempo en instalar Homebrew y Git. Lo recomendable es seguir la guia interna de pasos que viene dentro de estos programas para evitar algún error. El desafio para mi es familiarizarme con entornos como GitHub, pues mucha de la terminología y funcionamiento general no me es intuitivo. Requiere un conocimiento intermedio para saber "que hace esa cosa", lo cual estoy a medio camino todavia.
+3. En general las instalaciones son sencillas. En mi caso, la computadora tardo algo de tiempo en instalar Homebrew y Git. Lo recomendable es seguir la guia interna de pasos que viene dentro de estos programas para evitar algún error. El desafio para mi es familiarizarme con entornos como GitHub, pues mucha de la terminología y funcionamiento general no me es intuitivo. Requiere un conocimiento no superficial de conceptos y una idea clara de las funcinalidades que ofrece la plataforma.
 
 4. No fue el caso. Todo fue a través de terminal.
